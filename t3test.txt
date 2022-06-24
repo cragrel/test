@@ -22,7 +22,7 @@
 {"key":"360","name":"🎾360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_xpath_网络搜集库qiumi","name": "球迷🏀","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "clan://m/X/516-qiumi.js"},
+{"key": "csp_xpath_网络搜集库qiumi","name": "球迷🏀","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
 {"key":"七七","name":"👒七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"奈落影院","name":"🐼奈落影院","type":3,"api":"csp_Newfii","searchable":1,"quickSearch":1,"filterable":1},
